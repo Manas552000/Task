@@ -1,1 +1,16 @@
-
+Question no:1
+Ans:
+<html lang="en">
+    <head>
+        <title>guvi</title>
+    </head>
+    <body>
+        document
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    </div>
+    <div>
+       Guvi Geek Network
+     </div>
+        </body>
+    </html>
