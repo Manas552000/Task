@@ -1,0 +1,383 @@
+Question no:1
+Ans:
+<html lang="en">
+    <head>
+        <title>guvi</title>
+    </head>
+    <body>
+        document
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    </div>
+    <div>
+       Guvi Geek Network
+     </div>
+        </body>
+    </html>
+  --------------------------------------------------------------------------------------------------------------------
+  Question no:2
+  Ans:
+  <html lang="en">
+    <head>
+        <title>Document</title>
+    </head>
+    <body>
+        guvi
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    </div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+     --------------------------------------------------------------------------------------------------------------------
+     Question no:3
+     Ans:
+     <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div ></div>
+<form  action="" method="POST">
+  <div >
+    <label >Your name:</label><br />
+    <input id="name"  type="text" value="" size="35" required/><br />
+  </div>
+  <div >
+    <label class="required">Your email:</label><br />
+    <input type="email" value="" size="35" required/><br />
+  </div>
+  <div class="row">
+    <label >Your message:</label><br />
+    <textarea id="message"rows="7" cols="35" required></textarea><br />
+  </div>
+    
+    <input id="submit_button" type="submit" value="Send email" />
+</form>
+</body>
+</html>
+--------------------------------------------------------------------------------------------
+Question no:4
+Ans:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul style="list-style-type:disc;">
+        <li>Programming Language</li>
+        <ul style="list-style-type:circle;">
+            <li>JavaScript</li>
+            <ol type="a">
+                <li>Angular</li>
+                <li>React</li>
+                <li>vie.js</li>
+              </ol> 
+            <li>Python</li>
+            <ol type="a">
+                <li>Django Framework</li>
+                <li>Flask Framework</li>
+              </ol> 
+            <li>Java</li>
+            <ol type="a">
+                <li>Spring</li>
+                <li>Maven</li>
+                <li>Hibernate</li>
+              </ol> 
+          </ul> 
+        <li>Database</li>
+        <ul style="list-style-type:circle;">
+            <li>MySQL</li>
+            <li>MongoDB</li>
+            <li>Cansandra</li>
+          </ul> 
+      </ul>  
+</body>
+</html>
+---------------------------------------------------------------------------------------------
+Question no:5
+Ans:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p><a href="https://google.com" target="_blank">click here</a></p>
+</body>
+</html>
+----------------------------------------------------------------------------------------------
+Question no:6
+Ans:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <fieldset>
+          <legend>Select Employee Type:</legend>
+          <input type="radio" id="t1" name="Employee">
+          <label for="type1">Salaried </label><br>
+          <input type="radio" id="t2" name="Employee1">
+          <label for="type2">Own Business</label><br> 
+      </fieldset> 
+        </form>
+</body>
+</html>
+--------------------------------------------------------------------------------------------
+Question no:7
+Ans:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="post">
+        <table align="center" border="2px" cellspacing="0px">
+            <tr>
+                <td>
+                    <table align="center" cellspacing=="5px" cellpadding = "10px">
+                        <caption style="background-color:red;">Yes! I want to Subscribe to Mag-O-Zine</caption>
+                        <tr>
+                           <td> 
+                               <input type="text" value="" placeholder="First Name" required size="40%"> <br>
+                               First Name 
+                           </td>
+                           <td>
+                               <input type="text" value="" placeholder="Last Name" required size="37%"><br>
+                                Last Name
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="3">
+                                   <input type="text" value="" placeholder="Address" required size="100%"><br> 
+                                   Address
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                               <input type="text" value="" placeholder="City" required size="25"> &nbsp;&nbsp;&nbsp;<br>
+                                   City
+                               <td>
+                               <input type="text" value="" placeholder="Zip" required size="37%"> <br>
+                               State
+                               </td>
+                               
+                           </td>
+                           <td>
+                               <input type="text" value="" placeholder="Zip" required size="37%"> <br>
+                               Zip
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2">
+                                Subscribe for:
+                               <input type="radio" name="year" value="1 year"> 1 year ($19.95)
+                               <input type="radio" name="year" value="2 year"> 2 year ($35.00)
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                                Send me more information about: <br>
+                               <input type="checkbox" value="computer-zine">Computer-Zine <br>
+                               <input type="checkbox" value="computer-zine">Fishing-Zine <br>
+                               <input type="checkbox" value="computer-zine">Cat-O-Zine
+                           </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+   
+       </form>
+</body>
+</html>
+</body>
+</html>
+---------------------------------------------------------------------------------------------------------
+Question no:8
+Ans:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1px"; cellpadding="10px"; cellspacing="0px"; align="center" style="width:50%" >
+        <caption>Health Chart</caption>
+                    <tr>
+                        <td rowspan="2" align="center" >
+                            State of health
+                        </td>
+                        <td colspan="2" align="center">
+                            Fasting value
+                        </td>
+                        <td align="center">
+                            After eating
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            Minimum
+                        </td>
+                        <td align="center">
+                            Maximum
+                        </td>
+                        <td align="center">
+                            2 hours after eating
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            Healthy
+                        </td>
+                        <td align="center">
+                            70
+                        </td>
+                        <td align="center">
+                            100
+                        </td>
+                        <td align="center">
+                            Less than 140
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            Pre-Diabetes
+                        </td>
+                        <td align="center">
+                            101
+                        </td>
+                        <td align="center">
+                            126
+                        </td>
+                        <td align="center">
+                            140 to 200
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            Diabetes
+                        </td>
+                        <td align="center">
+                            More than 126
+                        </td>
+                        <td align="center">
+                            N/A
+                        </td>
+                        <td align="center">
+                            More than 200
+                        </td>
+                    </tr>
+            </table
+</body>
+</html>
+------------------------------------------------------------------------------------------------------------
+Question no:9
+Ans:
+------------------------------------------------------------------------------------------------------------
+Question no:10
+Ans:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <mark>HTML & CSS is awesome</mark>
+</body>
+</html>
+-------------------------------------------------------------------------------------------------------------
+Question no:11
+Ans:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <form >
+            <label for="name">First name:</label>
+            <input type="text" > <br>
+            <label >email:</label>
+            <input type="email"> <br>
+            <label >password:</label>
+            <input type="password"> <br>
+            <label>color:</label>
+            <input type="color"> <br>
+            <label >phoneno: </label>
+            <input type="tel" > <br>
+            <label >date: </label>
+            <input type="date"> <br>
+            <label >datetime-local: </label>
+           <input type="datetime-local"> <br>
+           <label >file: </label>
+            <input type="file"> <br>
+            <label >number: </label>
+            <input type="number"> <br>
+           <fieldset>
+               <legend>Radio Button</legend>
+                   <input type="radio"  name="radio">1<br>
+                   <input type="radio"  name="radio">2 <br>
+           </fieldset>
+           <fieldset>
+           <legend>Radio Button</legend>
+           <input type="checkbox">1<br>
+           <input type="checkbox">2<br>
+           <input type="checkbox">3<br>
+           </fieldset>
+           <label >range: </label>
+            <input type="range"><br>
+            <label >time: </label>
+           <input type="time"><br>
+           <label >search: </label>
+           <input type="search"><br>
+           <input type="submit" value="submit">
+           <input type="reset" value="Reset"><br>
+   
+       </form>
+
+      </form> 
+</body>
+</html>
